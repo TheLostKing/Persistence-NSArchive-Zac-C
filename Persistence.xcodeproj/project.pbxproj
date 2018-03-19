@@ -14,6 +14,7 @@
 		A7FAFEB420570E8100498AA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7FAFEB220570E8100498AA8 /* LaunchScreen.storyboard */; };
 		A7FAFEBF20570E8100498AA8 /* PersistenceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FAFEBE20570E8100498AA8 /* PersistenceTests.swift */; };
 		A7FAFECA20570E8100498AA8 /* PersistenceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FAFEC920570E8100498AA8 /* PersistenceUITests.swift */; };
+		A7FAFED820571A8900498AA8 /* FourLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FAFED720571A8900498AA8 /* FourLines.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A7FAFEC520570E8100498AA8 /* PersistenceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PersistenceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7FAFEC920570E8100498AA8 /* PersistenceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistenceUITests.swift; sourceTree = "<group>"; };
 		A7FAFECB20570E8100498AA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7FAFED720571A8900498AA8 /* FourLines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourLines.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				A7FAFEA920570E8100498AA8 /* AppDelegate.swift */,
 				A7FAFEAB20570E8100498AA8 /* ViewController.swift */,
+				A7FAFED720571A8900498AA8 /* FourLines.swift */,
 				A7FAFEAD20570E8100498AA8 /* Main.storyboard */,
 				A7FAFEB020570E8100498AA8 /* Assets.xcassets */,
 				A7FAFEB220570E8100498AA8 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7FAFEAC20570E8100498AA8 /* ViewController.swift in Sources */,
+				A7FAFED820571A8900498AA8 /* FourLines.swift in Sources */,
 				A7FAFEAA20570E8100498AA8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
